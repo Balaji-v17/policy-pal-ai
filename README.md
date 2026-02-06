@@ -1,5 +1,12 @@
 # policy-pal-ai
 Web based AI assistant using Retrieval-Augmented Generation (RAG) to answer company policy questions.
+## Tech Stack
+
+- Next.js (React)
+- Firebase Studio
+- Retrieval-Augmented Generation (RAG)
+- Vector-based document retrieval
+- AI-powered question answering
 ## Deployment
 
 This project is developed and tested using Firebase Studio.

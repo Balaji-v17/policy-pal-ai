@@ -18,7 +18,7 @@ Screenshots and source code are provided for evaluation.
 Screenshots
 
 ### Home Page
-![Home Page](screenshots/.png)
+![Home Page](screenshots/home.png)
 
 ### Policy Question Answering
 ![Answer](screenshots/answer.png)

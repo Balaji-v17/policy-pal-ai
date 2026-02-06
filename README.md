@@ -1,2 +1,10 @@
 # policy-pal-ai
 Web based AI assistant using Retrieval-Augmented Generation (RAG) to answer company policy questions.
+## Deployment
+
+This project is developed and tested using Firebase Studio.
+Production deployment uses Firebase App Hosting, which requires
+a Google Cloud Billing account. The application runs successfully
+in the local and studio environment.
+
+Screenshots and source code are provided for evaluation.

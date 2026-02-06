@@ -15,3 +15,13 @@ a Google Cloud Billing account. The application runs successfully
 in the local and studio environment.
 
 Screenshots and source code are provided for evaluation.
+Screenshots
+
+### Home Page
+![Home Page](screenshots/.png)
+
+### Policy Question Answering
+![Answer](screenshots/answer.png)
+
+### Policy Index
+![Policies](screenshots/policies.png)
